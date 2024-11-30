@@ -1,6 +1,6 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
 
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -138,9 +138,6 @@
     color: #666;
   }
   
-
-/* Add Font Awesome CDN for icons */
-
 
 /* Dark Theme */
 body.dark-theme {
